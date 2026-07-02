@@ -120,7 +120,7 @@ where the source code can be found) to generate the exact binary you are
 distributing. If you make any changes to the source code, these changes must
 also be made available under GPL v3.
 
-## Acknowledgements
+## Acknowledgements.
 
 Stockfish uses neural networks trained on [data provided by the Leela Chess Zero
 project][lc0-data-link], which is made available under the [Open Database License][odbl-link] (ODbL).
